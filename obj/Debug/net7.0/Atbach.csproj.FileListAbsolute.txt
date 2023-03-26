@@ -1,0 +1,15 @@
+C:\Users\aylin\OneDrive\Documentos\UPIICSA\.NET\Atbach\bin\Debug\net7.0\Atbach.exe
+C:\Users\aylin\OneDrive\Documentos\UPIICSA\.NET\Atbach\bin\Debug\net7.0\Atbach.deps.json
+C:\Users\aylin\OneDrive\Documentos\UPIICSA\.NET\Atbach\bin\Debug\net7.0\Atbach.runtimeconfig.json
+C:\Users\aylin\OneDrive\Documentos\UPIICSA\.NET\Atbach\bin\Debug\net7.0\Atbach.dll
+C:\Users\aylin\OneDrive\Documentos\UPIICSA\.NET\Atbach\bin\Debug\net7.0\Atbach.pdb
+C:\Users\aylin\OneDrive\Documentos\UPIICSA\.NET\Atbach\obj\Debug\net7.0\Atbach.csproj.AssemblyReference.cache
+C:\Users\aylin\OneDrive\Documentos\UPIICSA\.NET\Atbach\obj\Debug\net7.0\Atbach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aylin\OneDrive\Documentos\UPIICSA\.NET\Atbach\obj\Debug\net7.0\Atbach.AssemblyInfoInputs.cache
+C:\Users\aylin\OneDrive\Documentos\UPIICSA\.NET\Atbach\obj\Debug\net7.0\Atbach.AssemblyInfo.cs
+C:\Users\aylin\OneDrive\Documentos\UPIICSA\.NET\Atbach\obj\Debug\net7.0\Atbach.csproj.CoreCompileInputs.cache
+C:\Users\aylin\OneDrive\Documentos\UPIICSA\.NET\Atbach\obj\Debug\net7.0\Atbach.dll
+C:\Users\aylin\OneDrive\Documentos\UPIICSA\.NET\Atbach\obj\Debug\net7.0\refint\Atbach.dll
+C:\Users\aylin\OneDrive\Documentos\UPIICSA\.NET\Atbach\obj\Debug\net7.0\Atbach.pdb
+C:\Users\aylin\OneDrive\Documentos\UPIICSA\.NET\Atbach\obj\Debug\net7.0\Atbach.genruntimeconfig.cache
+C:\Users\aylin\OneDrive\Documentos\UPIICSA\.NET\Atbach\obj\Debug\net7.0\ref\Atbach.dll
